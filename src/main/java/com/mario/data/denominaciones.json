@@ -1,0 +1,57 @@
+[
+    {
+    "idDenomination": 0.5,
+    "type": "M",
+    "quantity": 100
+    },
+    {
+    "idDenomination": 1,
+    "type": "M",
+    "quantity": 300
+    },
+    {
+    "idDenomination": 2,
+    "type": "M",
+    "quantity": 200
+    },
+    {
+    "idDenomination": 5,
+    "type": "M",
+    "quantity": 100
+    },
+    {
+    "idDenomination": 10,
+    "type": "M",
+    "quantity": 50
+    },
+    {
+    "idDenomination": 20,
+    "type": "B",
+    "quantity": 40
+    },
+    {
+    "idDenomination": 50,
+    "type": "B",
+    "quantity": 30
+    },
+    {
+    "idDenomination": 100,
+    "type": "B",
+    "quantity": 20
+    },
+    {
+    "idDenomination": 200,
+    "type": "B",
+    "quantity": 10
+    },
+    {
+    "idDenomination": 500,
+    "type": "B",
+    "quantity": 5
+    },
+    {
+    "idDenomination": 1000,
+    "type": "B",
+    "quantity": 2
+    }
+    ]
