@@ -7,6 +7,21 @@ JPA: spring-boot-starter-data-jpa
 Conexion Mysql: mysql-connector-java
 API rest: spring-boot-starter-web
 
+https://www.youtube.com/watch?v=vTu2HQrXtyw&t=850s
+Se ejecuta
+C:\Developer\Java\Spring Boot\atm>mvnw.cmd spring-boot:run
+
+Para corregir problemas con dependencias
+
+Unix
+ ./mvnw clean install
+ Win
+mvnw clean install
+
+https://www.journaldev.com/33645/maven-commands-options-cheat-sheet
+
+Se requere levantar MySQL en el servidor con IP 192.168.100.52
+
 Java - El ejercicio
  práctico consiste en lo siguiente:
 
